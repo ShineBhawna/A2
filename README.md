@@ -4,5 +4,5 @@
 #### Screenshot for the following App: ``` App.js ```
 
 <div align="center">
-<img src="images/ReviewKit.png">
+<img src="images/Ss1.png">
 </ div>
